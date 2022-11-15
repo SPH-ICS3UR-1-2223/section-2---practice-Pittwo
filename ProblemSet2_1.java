@@ -78,5 +78,9 @@ public class ProblemSet2_1 {
     		  + "    |       |\r\n"
     		  + "    | \\___/ |\r\n"
     		  + "     \\_____/");
+      
+      System.out.println("");
+      String x = "humanitarian failure";
+    		  System.out.println("genshin impact is a " + x);
     }   
 }
